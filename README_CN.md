@@ -11,9 +11,9 @@
 
 
 ## 如何使用Android玩轩辕剑天之痕
-1. 下载并安装本仓库的安装包
-2. 下载游戏数据包，参见game_resource.txt
-3. 将游戏数据包放到手机目录，放在/sdcard/Android/obb/com.softstar.swd3e/ 目录下
+1. 下载并安装本仓库的[安装包](./310_Big5_Newdata.apk)
+2. 下载游戏数据包，参见[game_resource.txt](./game_resource.txt)
+3. 将游戏数据包放到手机目录，放在/sdcard/Android/obb/com.softstar.swd3e/ 目录下,没有的话创建一个
 4. 打开游戏 等待检查游戏资源 检查完毕后点击确定就可以畅玩了
 
 ## 一些tips
