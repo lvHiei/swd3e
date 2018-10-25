@@ -4,7 +4,20 @@
 
 
 
-主要修改点
+## 主要修改点
 
 - GooglePlay 的 LicenseChecker bindService接口在Android 5.0以上的系统会崩溃，这里修改了调用方式 使得Android 5.0以上的手机也可以正常运行游戏
 - 去掉广告，这个版本是基于一个缩小广告显示的版本改得 虽然缩小了广告 但是当点到广告区域时，依然会跳广告。这个版本在代码里删除了调用广告的接口
+
+
+## 如何使用Android玩轩辕剑天之痕
+1. 下载并安装本仓库的安装包
+2. 下载游戏数据包，参见game_resource.txt
+3. 将游戏数据包放到手机目录，放在/sdcard/Android/obb/com.softstar.swd3e/ 目录下
+4. 打开游戏 等待检查游戏资源 检查完毕后点击确定就可以畅玩了
+
+## 一些tips
+- 游戏的存档文件在/sdcard/Download/SWD3E/Save/ 目录下
+- 符鬼悟性在android版中不能培养，想要培养悟性可以使用pc版培养 然后在拷贝到存档目录下，符鬼存档文件为swdghost.dat，同样也在存档目录下，如果觉得麻烦 也可以直接修改存档文件
+- 我认为比较好的[攻略](http://fanhsu.blog.163.com/blog/static/375791632011018111059509/)
+
